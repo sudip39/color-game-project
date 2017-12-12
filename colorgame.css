@@ -3,17 +3,27 @@ body{
 }
 h1{
 	color: white;
-}
-.container{
 	margin:0 auto;
-	background-color: pink;
-	width: 50%;
-
+	padding-left: 30%;
 }
+
 .square{
 	width: 30%;
 	background: purple;
 	padding-top: 30%;
 	float:left;
 	margin:1.66%;
+}
+.container{
+	margin: 0px auto;
+	background-color: pink;
+	max-width: 600px;
+	
+
+}
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
 }
